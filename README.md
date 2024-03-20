@@ -1,5 +1,5 @@
 # PluginDetailsTenable
-py script to extract Tenable Plugins data, via GET request. Without API key
+simple py script to extract Tenable Plugins data, via GET request. (Without API key)
 
 ## how to:
 python3 scriptCLI.py <FILENAME>
@@ -18,3 +18,5 @@ CSV with Plugin ID, Plugin Name, Severity, CVSSv3, v3 Vector
 
 ## known errors:
 Deprecated plugins won't show severity on CSV
+
+
