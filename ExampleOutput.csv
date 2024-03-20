@@ -1,0 +1,373 @@
+Plugin ID,Plugin Name,Severity,CVSSv3,v3 Vector
+10107,HTTP Server Type and Version,Info,N/A,N/A
+10144,Microsoft SQL Server TCP/IP Listener Detection,Info,N/A,N/A
+10150,Windows NetBIOS / SMB Remote Host Information Disclosure,Info,N/A,N/A
+10287,Traceroute Information,Info,N/A,N/A
+10386,Web Server No 404 Error Code Check,Info,N/A,N/A
+10395,Microsoft Windows SMB Shares Enumeration,Info,N/A,N/A
+10396,Microsoft Windows SMB Shares Access,Info,N/A,N/A
+10400,Microsoft Windows SMB Registry Remotely Accessible,Info,N/A,N/A
+10456,Microsoft Windows SMB Service Enumeration,Info,N/A,N/A
+10736,DCE Services Enumeration,Info,N/A,N/A
+10785,Microsoft Windows SMB NativeLanManager Remote System Information Disclosure,Info,N/A,N/A
+10859,Microsoft Windows SMB LsaQueryInformationPolicy Function SID Enumeration,Info,N/A,N/A
+10863,SSL Certificate Information,Info,N/A,N/A
+10902,Microsoft Windows 'Administrators' Group User List,Info,N/A,N/A
+10919,Open Port Re-check,Info,N/A,N/A
+11011,Microsoft Windows SMB Service Detection,Info,N/A,N/A
+11217,Microsoft SQL Server Detection (credentialed check),Info,N/A,N/A
+11457,Microsoft Windows SMB Registry : Winlogon Cached Password Weakness,Info,N/A,N/A
+11936,OS Identification,Info,N/A,N/A
+16193,Antivirus Software Check,Info,N/A,N/A
+17651,Microsoft Windows SMB : Obtains the Password Policy,Info,N/A,N/A
+17975,Service Detection (GET request),Info,N/A,N/A
+19506,Nessus Scan Information,Info,N/A,N/A
+20094,VMware Virtual Machine Detection,Info,N/A,N/A
+20811,Microsoft Windows Installed Software Enumeration (credentialed check),Info,N/A,N/A
+21643,SSL Cipher Suites Supported,Info,N/A,N/A
+22964,Service Detection,Info,N/A,N/A
+23974,Microsoft Windows SMB Share Hosting Office Files,Info,N/A,N/A
+24260,HyperText Transfer Protocol (HTTP) Information,Info,N/A,N/A
+24269,WMI Available,Info,N/A,N/A
+24270,Computer Manufacturer Information (WMI),Info,N/A,N/A
+24272,Network Interfaces Enumeration (WMI),Info,N/A,N/A
+33139,WS-Management Server Detection,Info,N/A,N/A
+33545,Oracle Java Runtime Environment (JRE) Detection,Info,N/A,N/A
+34096,BIOS Info (WMI),Info,N/A,N/A
+34220,Netstat Portscanner (WMI),Info,N/A,N/A
+34252,Microsoft Windows Remote Listeners Enumeration (WMI),Info,N/A,N/A
+35297,SSL Service Requests Client Certificate,Info,N/A,N/A
+35716,Ethernet Card Manufacturer Detection,Info,N/A,N/A
+38153,Microsoft Windows Summary of Missing Patches,Info,N/A,N/A
+38689,Microsoft Windows SMB Last Logged On User Disclosure,Info,N/A,N/A
+42410,Microsoft Windows NTLMSSP Authentication Request Remote Network Name Disclosure,Info,N/A,N/A
+43111,HTTP Methods Allowed (per directory),Info,N/A,N/A
+44401,Microsoft Windows SMB Service Config Enumeration,Info,N/A,N/A
+44871,WMI Windows Feature Enumeration,Info,N/A,N/A
+45410,SSL Certificate 'commonName' Mismatch,Info,N/A,N/A
+45411,SSL Certificate with Wrong Hostname,Medium,5.3,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N
+45590,Common Platform Enumeration (CPE),Info,N/A,N/A
+46180,Additional DNS Hostnames,Info,N/A,N/A
+48204,Apache HTTP Server Version,Info,N/A,N/A
+48337,Windows ComputerSystemProduct Enumeration (WMI),Info,N/A,N/A
+48763,Microsoft Windows 'CWDIllegalInDllSearch' Registry Setting,Info,N/A,N/A
+48942,Microsoft Windows SMB Registry : OS Version and Processor Architecture,Info,N/A,N/A
+50859,Microsoft Windows SMB : WSUS Client Configured,Info,N/A,N/A
+51192,SSL Certificate Cannot Be Trusted,Medium,6.5,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N
+51351,Microsoft .NET Framework Detection,Info,N/A,N/A
+52001,WMI QuickFixEngineering (QFE) Enumeration,Info,N/A,N/A
+54615,Device Type,Info,N/A,N/A
+55472,Device Hostname,Info,N/A,N/A
+55532,Microsoft System Center Configuration Manager Client Installed,Info,N/A,N/A
+55958,Oracle Java JRE Unsupported Version Detection,Critical,10.0,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+56468,Time of Last System Startup,Info,N/A,N/A
+56984,SSL / TLS Versions Supported,Info,N/A,N/A
+57033,Microsoft Patch Bulletin Feasibility Check,Info,N/A,N/A
+57041,SSL Perfect Forward Secrecy Cipher Suites Supported,Info,N/A,N/A
+57323,OpenSSL Version Detection,Info,N/A,N/A
+57582,SSL Self-Signed Certificate,Medium,6.5,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N
+58181,Windows DNS Server Enumeration,Info,N/A,N/A
+58452,Microsoft Windows Startup Software Enumeration,Info,N/A,N/A
+62042,SMB QuickFixEngineering (QFE) Enumeration,Info,N/A,N/A
+63080,Microsoft Windows Mounted Devices,Info,N/A,N/A
+63620,Windows Product Key Retrieval,Info,N/A,N/A
+64582,Netstat Connection Information,Info,N/A,N/A
+65739,Oracle Java JRE Universally Enabled,Info,N/A,N/A
+65743,Oracle Java JRE Enabled (Internet Explorer),Info,N/A,N/A
+65791,Microsoft Windows Portable Devices,Info,N/A,N/A
+66334,Patch Report,Info,N/A,N/A
+66424,Microsoft Malicious Software Removal Tool Installed,Info,N/A,N/A
+69482,Microsoft SQL Server STARTTLS Support,Info,N/A,N/A
+70329,Microsoft Windows Process Information,Info,N/A,N/A
+70331,Microsoft Windows Process Module Information,Info,N/A,N/A
+70544,SSL Cipher Block Chaining Cipher Suites Supported,Info,N/A,N/A
+71246,Enumerate Local Group Memberships,Info,N/A,N/A
+72367,Microsoft Internet Explorer Version Detection,Info,N/A,N/A
+72482,Windows Display Driver Enumeration,Info,N/A,N/A
+72684,Enumerate Users via WMI,Info,N/A,N/A
+72879,Microsoft Internet Explorer Enhanced Security Configuration Detection,Info,N/A,N/A
+84239,Debugging Log Report,Info,N/A,N/A
+84502,HSTS Missing From HTTPS Server,Info,N/A,N/A
+84821,TLS ALPN Supported Protocol Enumeration,Info,N/A,N/A
+85736,Windows Store Application Enumeration,Info,N/A,N/A
+86420,Ethernet MAC Addresses,Info,N/A,N/A
+91263,SSL/TLS Service Requires Client Certificate,Info,N/A,N/A
+92364,Microsoft Windows Environment Variables,Info,N/A,N/A
+92365,Microsoft Windows Hosts File,Info,N/A,N/A
+92366,Microsoft Windows Last Boot Time,Info,N/A,N/A
+92367,Microsoft Windows PowerShell Execution Policy,Info,N/A,N/A
+92368,Microsoft Windows Scripting Host Settings,Info,N/A,N/A
+92369,Microsoft Windows Time Zone Information,Info,N/A,N/A
+92370,Microsoft Windows ARP Table,Info,N/A,N/A
+92371,Microsoft Windows DNS Cache,Info,N/A,N/A
+92373,Microsoft Windows SMB Sessions,Info,N/A,N/A
+92415,Application Compatibility Cache,Info,N/A,N/A
+92418,Windows Explorer Typed Paths,Info,N/A,N/A
+92421,Internet Explorer Typed URLs,Info,N/A,N/A
+92423,Windows Explorer Recently Executed Programs,Info,N/A,N/A
+92424,MUICache Program Execution History,Info,N/A,N/A
+92426,OpenSaveMRU History,Info,N/A,N/A
+92428,Recent File History,Info,N/A,N/A
+92429,Recycle Bin Files,Info,N/A,N/A
+92430,Registry Editor Last Accessed,Info,N/A,N/A
+92431,User Shell Folders Settings,Info,N/A,N/A
+92433,Terminal Services History,Info,N/A,N/A
+92434,User Download Folder Files,Info,N/A,N/A
+92435,UserAssist Execution History,Info,N/A,N/A
+92438,WordPad History,Info,N/A,N/A
+92439,Explorer Search History,Info,N/A,N/A
+93962,Microsoft Security Rollup Enumeration,Info,N/A,N/A
+94761,SSL Root Certification Authority Certificate Information,Info,N/A,N/A
+99364,Microsoft .NET Security Rollup Enumeration,Info,N/A,N/A
+100871,Microsoft Windows SMB Versions Supported (remote check),Info,N/A,N/A
+103871,Microsoft Windows Network Adapters,Info,N/A,N/A
+105793,VMware Tools Detection,Info,N/A,N/A
+106658,JQuery Detection,Info,N/A,N/A
+106716,Microsoft Windows SMB2 and SMB3 Dialects Supported (remote check),Info,N/A,N/A
+108761,MSSQL Host Information in NTLM SSP,Info,N/A,N/A
+110095,Target Credential Issues by Authentication Protocol - No Issues Found,Info,N/A,N/A
+117530,Errors in nessusd.dump,Info,N/A,N/A
+117887,OS Security Patch Assessment Available,Info,N/A,N/A
+118095,Microsoft SQL Server Management Studio (SSMS) Installed,Info,N/A,N/A
+125835,Microsoft Remote Desktop Connection Installed,Info,N/A,N/A
+126527,Microsoft Windows SAM user enumeration,Info,N/A,N/A
+131023,Windows Defender Installed,Info,N/A,N/A
+136318,TLS Version 1.2 Protocol Detection,Info,N/A,N/A
+138330,TLS Version 1.3 Protocol Detection,Info,N/A,N/A
+139785,DISM Package List (Windows),Info,N/A,N/A
+140578,CBS Removed Package Enumeration (Windows Event Log Tool),Info,N/A,N/A
+140633,CrowdStrike Falcon Sensor Installed (Windows),Info,N/A,N/A
+141118,Target Credential Status by Authentication Protocol - Valid Credentials Provided,Info,N/A,N/A
+141262,Apache HTTP Server Installed (Windows),Info,N/A,N/A
+148499,Java Detection and Identification (Windows),Info,N/A,N/A
+148541,Windows Language Settings Detection,Info,N/A,N/A
+151440,Microsoft Windows Print Spooler Service Enabled,Info,N/A,N/A
+155963,Windows Printer Driver Enumeration,Info,N/A,N/A
+156899,SSL/TLS Recommended Cipher Suites,Info,N/A,N/A
+159817,Windows Credential Guard Status,Info,N/A,N/A
+159929,Windows LSA Protection Status,Info,N/A,N/A
+160301,Link-Local Multicast Name Resolution (LLMNR) Service Detection,Info,N/A,N/A
+160486,Server Message Block (SMB) Protocol Version Detection,Info,N/A,N/A
+161455,Supersedence Data Builder,Info,N/A,N/A
+161502,Microsoft Windows Logged On Users,Info,N/A,N/A
+161691,The Microsoft Windows Support Diagnostic Tool (MSDT) RCE Workaround Detection (CVE-2022-30190),Info,N/A,N/A
+162174,Windows Always Installed Elevated Status,Info,N/A,N/A
+162560,Microsoft Internet Explorer Installed,Info,N/A,N/A
+164690,Windows Disabled Command Prompt Enumeration,Info,N/A,N/A
+166602,Asset Attribute: Fully Qualified Domain Name (FQDN),Info,N/A,N/A
+168149,OpenSSL Detection (Windows),Info,N/A,N/A
+168980,Enumerate the PATH Variables,Info,N/A,N/A
+170631,Host Active Directory Configuration (Windows),Info,N/A,N/A
+171410,IP Assignment Method Detection,Info,N/A,N/A
+171860,Curl Installed (Windows),Info,N/A,N/A
+171956,Windows Enumerate Accounts,Info,N/A,N/A
+174413,Microsoft ODBC Driver for SQL Server Installed (Windows),Info,N/A,N/A
+174736,Netstat Ingress Connections,Info,N/A,N/A
+10674,Microsoft SQL Server UDP Query Remote Version Disclosure,Info,N/A,N/A
+71462,Oracle Java JRE Premier Support and Extended Support Version Detection,Info,N/A,N/A
+92372,Microsoft Windows NetBIOS over TCP/IP Info,Info,N/A,N/A
+174405,Microsoft OLE DB Driver for SQL Server Installed (Windows),Info,N/A,N/A
+25220,TCP/IP Timestamps Supported,Info,N/A,N/A
+60119,Microsoft Windows SMB Share Permissions Enumeration,Info,N/A,N/A
+64567,IBM Spectrum Protect / Tivoli Storage Manager Client Installed,Info,N/A,N/A
+156001,Apache Log4j JAR Detection (Windows),Info,N/A,N/A
+156032,Apache Log4j Unsupported Version Detection (deprecated),Critical,10.0,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+12053,Host Fully Qualified Domain Name (FQDN) Resolution,Info,N/A,N/A
+42981,SSL Certificate Expiry - Future Expiry,Info,N/A,N/A
+83298,SSL Certificate Chain Contains Certificates Expiring Soon,Info,N/A,N/A
+142960,HSTS Missing From HTTPS Server (RFC 6797),Medium,6.5,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N
+172180,Potentially Dangerous PATH Variables,Medium,5.7,CVSS:3.0/AV:L/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:L
+117885,Target Credential Issues by Authentication Protocol - Intermittent Authentication Failure,Info,N/A,N/A
+11154,Unknown Service Detection: Banner Retrieval,Info,N/A,N/A
+136969,Microsoft Edge Chromium Installed,Info,N/A,N/A
+21608,NOD32 Antivirus Detection and Status,Critical,10.0,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+73756,Microsoft SQL Server Unsupported Version Detection (remote check),Critical,10.0,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+149334,SSH Password Authentication Accepted,Info,N/A,N/A
+11219,Nessus SYN scanner,Info,N/A,N/A
+100158,SSH Combined Host Command Logging (Plugin Debugging),Info,N/A,N/A
+42822,Strict Transport Security (STS) Detection,Info,N/A,N/A
+39520,Backported Security Patch Detection (SSH),Info,N/A,N/A
+70657,SSH Algorithms and Languages Supported,Info,N/A,N/A
+10267,SSH Server Type and Version Information,Info,N/A,N/A
+10881,SSH Protocol Versions Supported,Info,N/A,N/A
+157358,Linux Mounted Devices,Info,N/A,N/A
+94470,Cisco Firepower System Detection,Info,N/A,N/A
+97993,OS Identification and Installed Software Enumeration over SSH v2 (Using New SSH Library),Info,N/A,N/A
+95928,Linux User List Enumeration,Info,N/A,N/A
+34098,BIOS Info (SSH),Info,N/A,N/A
+58409,Check Point SecuRemote Hostname Information Disclosure,Info,N/A,N/A
+11153,Service Detection (HELP Request),Info,N/A,N/A
+104670,Check Point Gaia Operating System Detection,Info,N/A,N/A
+104740,Checkpoint Gaia Portal WebUI Detection,Info,N/A,N/A
+153953,SSH Weak Key Exchange Algorithms Enabled,Low,3.7,CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N
+153588,SSH SHA-1 HMAC Algorithms Enabled,Info,N/A,N/A
+21745,OS Security Patch Assessment Failed,Info,N/A,N/A
+19689,Embedded Web Server Detection,Info,N/A,N/A
+25221,Remote listeners enumeration (Linux / AIX),Info,N/A,N/A
+14272,Netstat Portscanner (SSH),Info,N/A,N/A
+90707,SSH SCP Protocol Detection,Info,N/A,N/A
+110483,Unix / Linux Running Processes Information,Info,N/A,N/A
+152743,Unix Software Discovery Commands Not Available,Info,N/A,N/A
+45432,Processor Information (via DMI),Info,N/A,N/A
+35351,System Information Enumeration (via DMI),Info,N/A,N/A
+33276,Enumerate MAC Addresses via SSH,Info,N/A,N/A
+147817,Java Detection and Identification (Linux / Unix),Info,N/A,N/A
+141394,Apache HTTP Server Installed (Linux),Info,N/A,N/A
+45433,Memory Information (via DMI),Info,N/A,N/A
+159488,Docker Installed (Linux),Info,N/A,N/A
+25203,Enumerate IPv4 Interfaces via SSH,Info,N/A,N/A
+11935,IPSEC Internet Key Exchange (IKE) Version 1 Detection,Info,N/A,N/A
+51891,SSL Session Resume Supported,Info,N/A,N/A
+104743,TLS Version 1.0 Protocol Detection,Medium,6.5,CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:L/A:N
+121010,TLS Version 1.1 Protocol Detection,Info,N/A,N/A
+50845,OpenSSL Detection,Info,N/A,N/A
+157288,TLS Version 1.1 Protocol Deprecated,Medium,6.5,CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:L/A:N
+56877,KVM / QEMU Guest Detection (uncredentialed check),Info,N/A,N/A
+97861,Network Time Protocol (NTP) Mode 6 Scanner,Medium,5.8,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:N/A:L
+10884,Network Time Protocol (NTP) Server Detection,Info,N/A,N/A
+164819,NETCONF Detection,Info,N/A,N/A
+122501,SSH Rate Limited Device,Info,N/A,N/A
+55932,Junos Version Detection,Info,N/A,N/A
+12634,Authenticated Check : OS Name and Installed Package Enumeration,Info,N/A,N/A
+117886,OS Security Patch Assessment Not Available,Info,N/A,N/A
+10437,NFS Share Export List,Info,N/A,N/A
+11111,RPC Services Enumeration,Info,N/A,N/A
+29700,iSCSI Target Detection,Info,N/A,N/A
+42256,NFS Shares World Readable,High,7.5,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
+42823,Non-compliant Strict Transport Security (STS),Info,N/A,N/A
+53335,RPC portmapper (TCP),Info,N/A,N/A
+57608,SMB Signing not required,Medium,5.3,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N
+110723,Target Credential Status by Authentication Protocol - No Credentials Provided,Info,N/A,N/A
+135860,WMI Not Available,Info,N/A,N/A
+10302,Web Server robots.txt Information Disclosure,Info,N/A,N/A
+30215,F5 BIG-IP Web Management Interface Detection,Info,N/A,N/A
+76940,F5 Networks BIG-IP Detection,Info,N/A,N/A
+50350,OS Identification Failed,Info,N/A,N/A
+47761,VMware Virtual Machine detection (dmidecode),Info,N/A,N/A
+118237,JAR File Detection for Linux/UNIX,Info,N/A,N/A
+130175,Apache Tomcat Local Detection,Info,N/A,N/A
+141263,Apache Tomcat Site Enumeration,Info,N/A,N/A
+142640,Apache HTTP Server Site Enumeration,Info,N/A,N/A
+151883,Libgcrypt Installed (Linux/UNIX),Info,N/A,N/A
+156000,Apache Log4j Installed (Linux / Unix),Info,N/A,N/A
+168007,OpenSSL Installed (Linux),Info,N/A,N/A
+171351,Apache Tomcat SEoL (7.0.x),Critical,10.0,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+174788,SQLite Local Detection (Linux),Info,N/A,N/A
+58987,PHP Unsupported Version Detection,Critical,10.0,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+10052,Daytime Service Detection,Info,N/A,N/A
+110385,Target Credential Issues by Authentication Protocol - Insufficient Privilege,Info,N/A,N/A
+48243,PHP Version Detection,Info,N/A,N/A
+102094,SSH Commands Require Privilege Escalation,Info,N/A,N/A
+22869,Software Enumeration (SSH),Info,N/A,N/A
+106203,DHCP server Detection (Linux),Info,N/A,N/A
+10092,FTP Server Detection,Info,N/A,N/A
+71049,SSH Weak MAC Algorithms Enabled,Low,N/A,N/A
+150799,Target Access Problems by Authentication Protocol - Maximum Privilege Account Used in Scan,Info,N/A,N/A
+25202,Enumerate IPv6 Interfaces via SSH,Info,N/A,N/A
+45405,Reachable IPv6 address,Info,N/A,N/A
+170170,Enumerate the Network Interface configuration via SSH,Info,N/A,N/A
+168982,Filepaths contain Dangerous characters (Linux),Info,N/A,N/A
+55817,HCL BigFix Client Installed (Windows),Info,N/A,N/A
+11422,Web Server Unconfigured - Default Install Page Present,Info,N/A,N/A
+140655,Microsoft Internet Information Services (IIS) Sites Enumeration,Info,N/A,N/A
+69551,SSL Certificate Chain Contains RSA Keys Less Than 2048 bits,Low,N/A,N/A
+122546,Microsoft Visual Studio Isolated Shell Installed,Info,N/A,N/A
+139615,Microsoft Internet Information Services (IIS) Installed,Info,N/A,N/A
+64784,Microsoft SQL Server Unsupported Version Detection,Critical,10.0,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+24018,TCP Channel Detection,Info,N/A,N/A
+62563,SSL Compression Methods Supported,Info,N/A,N/A
+69475,FileZilla Client Installed,Info,N/A,N/A
+163719,Splunk Universal Forwarder Installed (Windows),Info,N/A,N/A
+49069,Splunk Management API Detection,Info,N/A,N/A
+95631,SSL Certificate Signed Using Weak Hashing Algorithm (Known CA),Info,N/A,N/A
+50346,Microsoft Update Installed,Info,N/A,N/A
+128052,Cisco Firepower Enumeration,Info,N/A,N/A
+11819,TFTP Daemon Detection,Info,N/A,N/A
+31422,Reverse NAT/Intercepting Proxy Detection,Info,N/A,N/A
+42263,Unencrypted Telnet Server,Medium,6.5,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N
+10281,Telnet Server Detection,Info,N/A,N/A
+104410,Target Credential Status by Authentication Protocol - Failure for Provided Credentials,Info,N/A,N/A
+177514,D-Link D-View 8 Probe Server Detection,Info,N/A,N/A
+131566,Atlassian Jira Installed (Unix / Linux),Info,N/A,N/A
+132771,Palo Alto Cortex XSOAR Installed (Unix / Linux),Info,N/A,N/A
+15901,SSL Certificate Expiry,Medium,5.3,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N
+33851,Network daemons not managed by the package system,Info,N/A,N/A
+47619,Splunk Web Detection,Info,N/A,N/A
+74286,IBM GSKit Installed (Linux),Info,N/A,N/A
+81814,IBM Tivoli Storage Manager Client Installed (Linux),Info,N/A,N/A
+83303,Unix / Linux - Local Users Information : Passwords Never Expire,Info,N/A,N/A
+133964,SELinux Status Check,Info,N/A,N/A
+148373,OpenJDK Java Detection (Linux / Unix),Info,N/A,N/A
+149983,Red Hat Enterprise Linux : Enabled Official Repositories,Info,N/A,N/A
+163460,Splunk Installed (Linux),Info,N/A,N/A
+165456,CrowdStrike Falcon Sensor Installed (Linux),Info,N/A,N/A
+152742,Unix Software Discovery Commands Available,Info,N/A,N/A
+104498,Splunk Non-root Configuration Local Privilege Escalation,High,8.4,CVSS:3.0/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+64815,Oracle Java Runtime Environment (JRE) Detection (Unix),Info,N/A,N/A
+71463,Oracle Java JRE Premier Support and Extended Support Version Detection (Unix),Info,N/A,N/A
+64816,Oracle Java JRE Unsupported Version Detection (Unix),Critical,10.0,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+44657,Linux Daemons with Broken Links to Executables,Info,N/A,N/A
+90603,NetIQ Sentinel Detection,Info,N/A,N/A
+148374,Azul Zulu Java Detection (Linux / Unix),Info,N/A,N/A
+22227,RMI Registry Detection,Info,N/A,N/A
+65914,MongoDB Detection,Info,N/A,N/A
+163459,Splunk Universal Forwarder Installed (Linux),Info,N/A,N/A
+64814,Terminal Services Use SSL/TLS,Info,N/A,N/A
+151209,OpenJDK 7 \u003c= 7u281 / 8 \u003c= 8u272 / 11.0.0 \u003c= 11.0.9 / 13.0.0 \u003c= 13.0.5 / 15.0.0 \u003c= 15.0.1 Vulnerability (2021-01-19),High,N/A,N/A
+132675,SSL/TLS Deprecated Ciphers Unsupported,Critical,N/A,N/A
+91000,BMC BladeLogic Server Automation RSCD Agent Detection,Info,N/A,N/A
+90999,BMC Server Automation RSCD Agent Weak ACL XML-RPC Arbitrary Command Execution,Critical,N/A,N/A
+91947,BMC Server Automation RSCD Agent Weak ACL NSH Arbitrary Command Execution,Critical,N/A,N/A
+39446,Apache Tomcat Detection,Info,N/A,N/A
+121516,JBoss Remoting Detection,Info,N/A,N/A
+26928,SSL Weak Cipher Suites Supported,Medium,5.3,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N
+71642,Oracle Installed Software Enumeration (Linux / Unix),Info,N/A,N/A
+178011,Oracle OPatch Installed,Info,N/A,N/A
+71637,WMI IIS ISAPI Extension Enumeration,Info,N/A,N/A
+178102,Microsoft Windows Installed Software Version Enumeration,Info,N/A,N/A
+176212,Microsoft Edge Add-on Enumeration (Windows),Info,N/A,N/A
+66696,Cisco NX-OS Version,Info,N/A,N/A
+62564,TLS Next Protocols Supported,Info,N/A,N/A
+87242,TLS NPN Supported Protocol Enumeration,Info,N/A,N/A
+133723,Cisco Software Maintenance Update Enumeration,Info,N/A,N/A
+100669,Web Application Cookies Are Expired,Info,N/A,N/A
+99234,Cisco IOS XE Smart Install Protocol Misuse (cisco-sr-20170214-smi),Info,N/A,N/A
+67217,Cisco IOS XE Version,Info,N/A,N/A
+106375,nginx HTTP Server Detection,Info,N/A,N/A
+72582,Unsupported Cisco Operating System,Critical,10.0,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+11026,Wireless Access Point Detection,Info,N/A,N/A
+70122,Cisco Wireless LAN Controller (WLC) Version,Info,N/A,N/A
+91486,Wireless Access Controller Detection,Info,N/A,N/A
+62695,IPSEC Internet Key Exchange (IKE) Version 2 Detection,Info,N/A,N/A
+110267,Apache Zookeeper Server Detection,Info,N/A,N/A
+21642,Session Initiation Protocol Detection,Info,N/A,N/A
+20007,SSL Version 2 and 3 Protocol Detection,Critical,9.8,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+99233,Cisco IOS Smart Install Protocol Misuse (cisco-sr-20170214-smi),Info,N/A,N/A
+47864,Cisco IOS Version,Info,N/A,N/A
+11907,BGP Service Detection,Info,N/A,N/A
+91731,Cisco APIC Detection,Info,N/A,N/A
+122364,Python Remote HTTP Detection,Info,N/A,N/A
+148367,Python Unsupported Version Detection,Critical,10.0,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+121575,Ansible Installed (Linux/UNIX),Info,N/A,N/A
+10335,Nessus TCP scanner,Info,N/A,N/A
+10394,Microsoft Windows SMB Log In Possible,Info,N/A,N/A
+10940,Remote Desktop Protocol Service Detection,Info,N/A,N/A
+179947,Intel CPUID detection,Info,N/A,N/A
+182252,Apache Log4j SEoL (\u003c= 1.x),Critical,10.0,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+181418,OpenSSH Detection,Info,N/A,N/A
+178771,Node.js Installed (Linux / UNIX),Info,N/A,N/A
+178772,Node.js Modules Installed (Linux),Info,N/A,N/A
+179200,Enumerate the Network Routing configuration via SSH,Info,N/A,N/A
+182774,Curl Installed (Linux / Unix),Info,N/A,N/A
+91459,SolarWinds Server \u0026 Application Monitor (SAM) Detection,Info,N/A,N/A
+10800,SNMP Query System Information Disclosure,Info,N/A,N/A
+35296,SNMP Protocol Version Detection,Info,N/A,N/A
+40448,SNMP Supported Protocols Detection,Info,N/A,N/A
+138014,kpatch : Installed Patches,Info,N/A,N/A
+159575,HCL BigFix Client Installed (Linux),Info,N/A,N/A
+182848,libcurl Installed (Linux / Unix),Info,N/A,N/A
+160576,Windows Services Registry ACL,Info,N/A,N/A
+187318,Microsoft Windows Installed,Info,N/A,N/A
+185519,SNMP Server Detection,Info,N/A,N/A
+186361,VMWare Tools or Open VM Tools Installed (Linux),Info,N/A,N/A
+186696,Junos J-Web Detection,Info,N/A,N/A
